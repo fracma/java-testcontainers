@@ -12,7 +12,7 @@
 	<artifactId>testContainers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>testContainers</name>
-	<description>Example 1 test containers</description>
+	<description>Example testcontainers library</description>
 	<url/>
 	<licenses>
 		<license/>
